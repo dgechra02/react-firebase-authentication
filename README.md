@@ -32,7 +32,7 @@ Before you start using this application, you need to have the following:
 1.  Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/rajkr5446/react-firebase-authentication.git
+    git clone https://github.com/dgechra02/react-firebase-authentication.git
     ```
 
 2.  Navigate to the project directory
